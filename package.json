@@ -1,0 +1,14 @@
+{
+  "name": "demo-fixing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "playwright test",
+    "demo:reset": "node scripts/reset.mjs",
+    "demo:healthy": "node scripts/reset.mjs --healthy"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.58.2"
+  }
+}

@@ -1,0 +1,15 @@
+node_modules/
+.wdio*/
+.pw-test-writer/
+test-results/
+*.log
+
+.appium/
+.demo-archive/
+
+.demo-evidence/
+
+node_modules
+test-reports/
+playwright-report/
+.DS_Store
