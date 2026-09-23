@@ -21,11 +21,11 @@
         }
       ],
       "tests": [
-        "test/specs/cards/cards.e2e.js \u203a Cards \u203a freezes card",
-        "test/specs/cards/cards.e2e.js \u203a Cards \u203a retains frozen status after navigation",
-        "test/specs/cards/cards.e2e.js \u203a Cards \u203a unfreezes card",
-        "test/specs/home/home.e2e.js \u203a Home balances \u203a shows the everyday account balance in EUR",
-        "test/specs/home/home.e2e.js \u203a Home balances \u203a shows the total balance in EUR"
+        "test/specs/cards/cards.e2e.js › Cards › freezes card",
+        "test/specs/cards/cards.e2e.js › Cards › retains frozen status after navigation",
+        "test/specs/cards/cards.e2e.js › Cards › unfreezes card",
+        "test/specs/home/home.e2e.js › Home balances › shows the everyday account balance in EUR",
+        "test/specs/home/home.e2e.js › Home balances › shows the total balance in EUR"
       ],
       "changes": []
     },
@@ -49,9 +49,9 @@
         }
       ],
       "tests": [
-        "test/specs/cards/cards.e2e.js \u203a Cards \u203a freezes card",
-        "test/specs/cards/cards.e2e.js \u203a Cards \u203a retains frozen status after navigation",
-        "test/specs/cards/cards.e2e.js \u203a Cards \u203a unfreezes card"
+        "test/specs/cards/cards.e2e.js › Cards › freezes card",
+        "test/specs/cards/cards.e2e.js › Cards › retains frozen status after navigation",
+        "test/specs/cards/cards.e2e.js › Cards › unfreezes card"
       ],
       "changes": []
     },
@@ -75,13 +75,13 @@
         }
       ],
       "tests": [
-        "test/specs/cards/cards.e2e.js \u203a Cards \u203a retains frozen status after navigation"
+        "test/specs/cards/cards.e2e.js › Cards › retains frozen status after navigation"
       ],
       "changes": []
     }
   ],
   "recordings": {
-    "test/specs/cards/cards.e2e.js \u203a Cards \u203a freezes card": {
+    "test/specs/cards/cards.e2e.js › Cards › freezes card": {
       "file": "test/specs/cards/cards.e2e.js",
       "title": [
         "Cards",
@@ -118,7 +118,7 @@
         "app": "f628573388dffa1cd5cabf397a797abc43cdf541"
       }
     },
-    "test/specs/cards/cards.e2e.js \u203a Cards \u203a retains frozen status after navigation": {
+    "test/specs/cards/cards.e2e.js › Cards › retains frozen status after navigation": {
       "file": "test/specs/cards/cards.e2e.js",
       "title": [
         "Cards",
@@ -167,7 +167,7 @@
         "app": "f628573388dffa1cd5cabf397a797abc43cdf541"
       }
     },
-    "test/specs/cards/cards.e2e.js \u203a Cards \u203a unfreezes card": {
+    "test/specs/cards/cards.e2e.js › Cards › unfreezes card": {
       "file": "test/specs/cards/cards.e2e.js",
       "title": [
         "Cards",
@@ -208,7 +208,7 @@
         "app": "f628573388dffa1cd5cabf397a797abc43cdf541"
       }
     },
-    "test/specs/home/home.e2e.js \u203a Home balances \u203a shows the everyday account balance in EUR": {
+    "test/specs/home/home.e2e.js › Home balances › shows the everyday account balance in EUR": {
       "file": "test/specs/home/home.e2e.js",
       "title": [
         "Home balances",
@@ -233,7 +233,7 @@
         "app": "f628573388dffa1cd5cabf397a797abc43cdf541"
       }
     },
-    "test/specs/home/home.e2e.js \u203a Home balances \u203a shows the total balance in EUR": {
+    "test/specs/home/home.e2e.js › Home balances › shows the total balance in EUR": {
       "file": "test/specs/home/home.e2e.js",
       "title": [
         "Home balances",
