@@ -13,3 +13,5 @@ node_modules
 test-reports/
 playwright-report/
 .DS_Store
+
+.demo-workspace/
